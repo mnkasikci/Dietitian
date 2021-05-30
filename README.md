@@ -1,2 +1,3 @@
 # Dietitian
-A simple web based dietitian application
+A simple console dietitian implementation
+Uses bridge pattern and builder pattern. 
