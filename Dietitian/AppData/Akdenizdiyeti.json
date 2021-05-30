@@ -1,0 +1,144 @@
+{
+    "Days": [
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "2 dilim kepekli ekmek (çavdar, ekşi mayalı ekmek de tüketebilirsiniz), 1 dilim tuzsuz beyaz peynir, 5-6 adet tuzsuz zeytin, 1 yemek kaşığı zeytinyağı, bolca salatalık, domates ve yeşillik."
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Ton balıklı, zeytinyağlı yeşil salata + 1 dilim kepek ekmeği"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Zeytinyağlı sebze yemeği + yarım yağlı yoğurt + salata"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "Meyve + yarım yağlı süt + çiğ badem (çiğ fındık, ceviz, kaju vb)"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "2 dilim beyaz peynir + 1 dilim kepekli ekmek + 5-6 adet zeytin, bolca salatalık ve domates."
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Fırında ızgara sebze + Tam buğday unlu ya da kepekli, zeytinyağıyla hazırlanmış bir sos ile 3-4 yemek kaşığı makarna + Ayran"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Zeytinyağlı bakliyat yemeği + yarım yağlı yoğurt + az zeytinyağlı salata"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "Meyve + yarım yağlı süt + çiğ badem (çiğ fındık, ceviz, kaju vb)"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "2 dilim kepekli ekmek (çavdar, ekşi mayalı ekmek de tüketebilirsiniz), 1 dilim tuzsuz beyaz peynir, 5-6 adet tuzsuz zeytin, 1 yemek kaşığı zeytinyağı, bolca salatalık, domates ve yeşillik."
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Ton balıklı, zeytinyağlı yeşil salata + 1 dilim kepek ekmeği"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Zeytinyağlı sebze yemeği + yarım yağlı yoğurt + salata"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "Meyve + yarım yağlı süt + çiğ badem (çiğ fındık, ceviz, kaju vb)"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "2 dilim beyaz peynir + 1 dilim kepekli ekmek + 5-6 adet zeytin, bolca salatalık ve domates."
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Fırında ızgara sebze + Tam buğday unlu ya da kepekli, zeytinyağıyla hazırlanmış bir sos ile 3-4 yemek kaşığı makarna + Ayran"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Zeytinyağlı bakliyat yemeği + yarım yağlı yoğurt + az zeytinyağlı salata"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "Meyve + yarım yağlı süt + çiğ badem (çiğ fındık, ceviz, kaju vb)"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "2 dilim beyaz peynir + 1 dilim kepekli ekmek + 5-6 adet zeytin, bolca salatalık ve domates."
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Fırında ızgara sebze + Tam buğday unlu ya da kepekli, zeytinyağıyla hazırlanmış bir sos ile 3-4 yemek kaşığı makarna + Ayran"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Zeytinyağlı bakliyat yemeği + yarım yağlı yoğurt + az zeytinyağlı salata"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "Meyve + yarım yağlı süt + çiğ badem (çiğ fındık, ceviz, kaju vb)"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "2 dilim kepekli ekmek (çavdar, ekşi mayalı ekmek de tüketebilirsiniz), 1 dilim tuzsuz beyaz peynir, 5-6 adet tuzsuz zeytin, 1 yemek kaşığı zeytinyağı, bolca salatalık, domates ve yeşillik."
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Ton balıklı, zeytinyağlı yeşil salata + 1 dilim kepek ekmeği"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Zeytinyağlı sebze yemeği + yarım yağlı yoğurt + salata"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "Meyve + yarım yağlı süt + çiğ badem (çiğ fındık, ceviz, kaju vb)"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "2 dilim beyaz peynir + 1 dilim kepekli ekmek + 5-6 adet zeytin, bolca salatalık ve domates."
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Fırında ızgara sebze + Tam buğday unlu ya da kepekli, zeytinyağıyla hazırlanmış bir sos ile 3-4 yemek kaşığı makarna + Ayran"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Zeytinyağlı bakliyat yemeği + yarım yağlı yoğurt + az zeytinyağlı salata"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "Meyve + yarım yağlı süt + çiğ badem (çiğ fındık, ceviz, kaju vb)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "Days": [
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "1 dilim beyaz peynir + 1 adet haşlanmış yumurta + 5-6  adet zeytin + Bol yeşillik + 1 dilim tam tahıllı ekmek 2. Kahvaltı Menüsü Avokadolu tost + 1 porsiyon meyve + Bol yeşillik"
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Izgara balık + haşlama sebze + maden suyu 2. Öğle Yemeği Menüsü 1 porsiyon sebze yemeği +  1 kase yoğurt + 1 dilim ekmek"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Kinoalı meyveli  salata 2. Akşam Yemeği Menüsü 1 porsiyon kurubaklagil yemeği + 3-4 yemek kaşığı bulgur pilavı + 1 kase salata (z.yağı ve limon ile)"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "2 adet ceviz veya 5-6 adet badem/fındık 1 porsiyon meyve Bitki çayları Kahve çeşitleri"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "1 dilim beyaz peynir + 1 adet haşlanmış yumurta + 5-6  adet zeytin + Bol yeşillik + 1 dilim tam tahıllı ekmek 2. Kahvaltı Menüsü Avokadolu tost + 1 porsiyon meyve + Bol yeşillik"
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Izgara balık + haşlama sebze + maden suyu 2. Öğle Yemeği Menüsü 1 porsiyon sebze yemeği +  1 kase yoğurt + 1 dilim ekmek"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Kinoalı meyveli  salata 2. Akşam Yemeği Menüsü 1 porsiyon kurubaklagil yemeği + 3-4 yemek kaşığı bulgur pilavı + 1 kase salata (z.yağı ve limon ile)"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "2 adet ceviz veya 5-6 adet badem/fındık 1 porsiyon meyve Bitki çayları Kahve çeşitleri"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "1 dilim beyaz peynir + 1 adet haşlanmış yumurta + 5-6  adet zeytin + Bol yeşillik + 1 dilim tam tahıllı ekmek 2. Kahvaltı Menüsü Avokadolu tost + 1 porsiyon meyve + Bol yeşillik"
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Izgara balık + haşlama sebze + maden suyu 2. Öğle Yemeği Menüsü 1 porsiyon sebze yemeği +  1 kase yoğurt + 1 dilim ekmek"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Kinoalı meyveli  salata 2. Akşam Yemeği Menüsü 1 porsiyon kurubaklagil yemeği + 3-4 yemek kaşığı bulgur pilavı + 1 kase salata (z.yağı ve limon ile)"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "2 adet ceviz veya 5-6 adet badem/fındık 1 porsiyon meyve Bitki çayları Kahve çeşitleri"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "1 dilim beyaz peynir + 1 adet haşlanmış yumurta + 5-6  adet zeytin + Bol yeşillik + 1 dilim tam tahıllı ekmek 2. Kahvaltı Menüsü Avokadolu tost + 1 porsiyon meyve + Bol yeşillik"
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Izgara balık + haşlama sebze + maden suyu 2. Öğle Yemeği Menüsü 1 porsiyon sebze yemeği +  1 kase yoğurt + 1 dilim ekmek"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Kinoalı meyveli  salata 2. Akşam Yemeği Menüsü 1 porsiyon kurubaklagil yemeği + 3-4 yemek kaşığı bulgur pilavı + 1 kase salata (z.yağı ve limon ile)"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "2 adet ceviz veya 5-6 adet badem/fındık 1 porsiyon meyve Bitki çayları Kahve çeşitleri"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "1 dilim beyaz peynir + 1 adet haşlanmış yumurta + 5-6  adet zeytin + Bol yeşillik + 1 dilim tam tahıllı ekmek 2. Kahvaltı Menüsü Avokadolu tost + 1 porsiyon meyve + Bol yeşillik"
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Izgara balık + haşlama sebze + maden suyu 2. Öğle Yemeği Menüsü 1 porsiyon sebze yemeği +  1 kase yoğurt + 1 dilim ekmek"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Kinoalı meyveli  salata 2. Akşam Yemeği Menüsü 1 porsiyon kurubaklagil yemeği + 3-4 yemek kaşığı bulgur pilavı + 1 kase salata (z.yağı ve limon ile)"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "2 adet ceviz veya 5-6 adet badem/fındık 1 porsiyon meyve Bitki çayları Kahve çeşitleri"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "1 dilim beyaz peynir + 1 adet haşlanmış yumurta + 5-6  adet zeytin + Bol yeşillik + 1 dilim tam tahıllı ekmek 2. Kahvaltı Menüsü Avokadolu tost + 1 porsiyon meyve + Bol yeşillik"
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Izgara balık + haşlama sebze + maden suyu 2. Öğle Yemeği Menüsü 1 porsiyon sebze yemeği +  1 kase yoğurt + 1 dilim ekmek"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Kinoalı meyveli  salata 2. Akşam Yemeği Menüsü 1 porsiyon kurubaklagil yemeği + 3-4 yemek kaşığı bulgur pilavı + 1 kase salata (z.yağı ve limon ile)"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "2 adet ceviz veya 5-6 adet badem/fındık 1 porsiyon meyve Bitki çayları Kahve çeşitleri"
+                }
+            ]
+        },
+        {
+            "Meals": [
+                {
+                    "MealName": "Kahvalti",
+                    "MealContent": "2 dilim beyaz peynir + 1 dilim kepekli ekmek + 5-6 adet zeytin, bolca salatalık ve domates."
+                },
+                {
+                    "MealName": "Öğlen yemeği",
+                    "MealContent": "Fırında ızgara sebze + Tam buğday unlu ya da kepekli, zeytinyağıyla hazırlanmış bir sos ile 3-4 yemek kaşığı makarna + Ayran"
+                },
+                {
+                    "MealName": "Akşam yemeği",
+                    "MealContent": "Zeytinyağlı bakliyat yemeği + yarım yağlı yoğurt + az zeytinyağlı salata"
+                },
+                {
+                    "MealName": "Ara öğünlerde",
+                    "MealContent": "Meyve + yarım yağlı süt + çiğ badem (çiğ fındık, ceviz, kaju vb)"
+                }
+            ]
+        }
+    ]
+}
