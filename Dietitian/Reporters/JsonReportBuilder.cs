@@ -1,12 +1,6 @@
 ﻿using Dietitian.Models.PersonModels;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Text.Encodings.Web;
 using System.Text.Json;
-using System.Text.Unicode;
-using System.Threading.Tasks;
 
 namespace Dietitian.Reporters
 {
@@ -25,13 +19,11 @@ namespace Dietitian.Reporters
 
         public override string BuildDietInfo()
         {
-           // byte[] jsonUtf8Bytes = JsonSerializer.SerializeToUtf8Bytes(_patient.Hastalik.Diyet.GetDietContent());
             var content =  JsonSerializer.Serialize(_patient.Hastalik.Diyet.GetDietContent(), options);
             content = content.Substring(1, content.Length - 2);
 
             if (firstCall) content += ',';
             firstCall = false;
-
 
             return content ;
         }

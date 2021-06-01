@@ -14,7 +14,6 @@
         Colyak = 2,
         Seker = 3
     }
-
     public enum MainMenuEntry
     {
         AddPatient = 1,
@@ -23,7 +22,6 @@
         GetReport = 4,
         Exit = 5
     }
-
     public enum ReportOrderEntry
     {
         PatientInfoFirst = 1,
@@ -34,7 +32,6 @@
         Json = 1,
         HTML= 2
     }
-
     public static class MenuTexts
     {
         public const string Diets = "Lutfen diyet turunu giriniz\n"+ 

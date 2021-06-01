@@ -1,12 +1,4 @@
 ﻿using Dietitian.Models.PersonModels;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.Encodings.Web;
-using System.Text.Json;
-using System.Text.Unicode;
-using System.Threading.Tasks;
 
 namespace Dietitian.Reporters
 {
@@ -34,9 +26,7 @@ namespace Dietitian.Reporters
 
         public override string BuildFooter()
         {
-
             return "</br>\n</body>\n</html>\n";
-            
         }
 
         public override string BuildHeader()
